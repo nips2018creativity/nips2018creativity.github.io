@@ -105,4 +105,4 @@ Workshop website: [https://nips2018creativity.github.io](https://nips2018 creati
 
 [Jesse Engel](https://twitter.com/jesseengel), Magenta, Google Brain
 
-[Tom White](https://twitter.com/dribnet), Victoria University of Wellington)
+[Tom White](https://twitter.com/dribnet), Victoria University of Wellington

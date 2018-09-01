@@ -1,1 +1,0 @@
-# nips2018creativity.github.io

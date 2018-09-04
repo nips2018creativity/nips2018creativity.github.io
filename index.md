@@ -71,7 +71,7 @@ We welcome submission of artwork that has been created using machine learning (a
 - Website
 - Other types of submissions (e.g., physical artefacts, performances, text, …) should be documented using one or more of the above formats. For instance, you might submit a video of a machine-learning-generated dance piece or a website documenting a text generation piece.
 
-On this submission [page](https://docs.google.com/forms/d/e/1FAIpQLSdN3TzfqreAgKWvV3pvps1eSJ0izCIrWvqMogQfXdydHkm4EA/viewform?c=0&w=1&usp=mail_form_link), you will also be asked for a short text description of your work and a description of how machine learning was used in its creation.
+On this submission [page](https://docs.google.com/forms/d/1vYZT4_53qcWOLMr7XQ2KGUoeabkoOh164RTpH7lcyds), you will also be asked for a short text description of your work and a description of how machine learning was used in its creation.
 
 Art submissions will be reviewed by committee members.
 

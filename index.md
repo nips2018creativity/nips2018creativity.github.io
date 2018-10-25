@@ -58,7 +58,7 @@ Topics may include (but are not limited to):
 
 On the submission page, you may also indicate whether you would like to present a demo of your work during the workshop (if applicable).
 
-Papers will be reviewed by committee members, and accepted authors will present at the workshop in the form of a short talk, panel, and/or demo. At least one author of each accepted paper must register for and attend the workshop. Accepted papers will appear on the workshop website.
+Papers will be reviewed by committee members, and accepted authors will present at the workshop in the form of a short talk, poster, and/or demo. At least one author of each accepted paper must register for and attend the workshop. Accepted papers will appear on the workshop website.
 
 References and any supplementary materials provided do not count as part of the 2-page limit. However, it will be the reviewers' discretion to read the supplementary materials.
 
@@ -79,7 +79,7 @@ Art submissions will be reviewed by committee members.
 
 
 
-We will host an online gallery of accepted art submissions on the workshop website. While we will do our best to show a number of art pieces at the workshop itself, we will most likely not have access to adequate equipment and space to support a substantial exhibit. We may invite creators of accepted artwork to participate in the form of a short talk, panel, and/or demo.
+We will host an online gallery of accepted art submissions on the workshop website. While we will do our best to show a number of art pieces at the workshop itself, we will most likely not have access to adequate equipment and space to support a substantial exhibit. We may invite creators of accepted artwork to participate in the form of a short talk, poster, and/or demo.
 
 Artists submitting work are encouraged though not required to attend in person. 
 

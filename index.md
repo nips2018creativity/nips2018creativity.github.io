@@ -89,9 +89,35 @@ If you have any questions, please contact us at `nips2018creativity@gmail.com`
 
 Workshop website: [https://nips2018creativity.github.io](https://nips2018 creativity.github.io)
 
-<!-- ## Schedule -->
+## Schedule
 
-<!-- ## Accepted Papers -->
+| Time    | Event  |
+|---------|--------|
+| 8:30 AM | Welcome and Introduction  |
+| 8:45 AM | Invited Talk<br/>*Kenneth Stanley* |
+| 9:15 AM | Invited Talk<br/>*Yaroslav Ganin* |
+| 9:45 AM | Invited Talk<br/>*David Ha* |
+| 10:15 AM | AI art gallery overview<br/>*Luba Elliott* |
+| 10:30 AM | Art / Coffee Break |
+| 11:00 AM | Invited Talk<br/>*Yaniv Taigman* |
+| 11:30 AM | Performing Structured Improvisations with Pre-existing Generative Musical Models<br/>*Pablo Samuel Castro* |
+| 11:45 AM | Legend of Wrong Mountain: Full Generation of Traditional Chinese Opera Using Multiple Machine Learning Algorithms<br/>*Lingdon Huang, Giada Sun, Zheng Jiang* |
+| 12:00 PM | Lunch |
+| 1:30 PM | Poster Session 1<br/>*Evan Casey, Colin A Raffel, Jonathan Simon, Billy Li, Rob Saunders, Petra Gemeinboeck, Eunsu Kang, Songwei Ge, Curtis "Fjord" Hawthorne, Anna Huang, Ting-Wei Su, Eric Chu, Memo Akten, Sonam Damani, Khyatti Gupta, Dilpreet Singh, Patrick Hutchings* |
+| 2:30 PM | Invited Talk<br/>*Allison Parrish* |
+| 3:00 PM | Art / Coffee Break |
+| 3:30 PM | TimbreTron: A WaveNet(CycleGAN(CQT(Audio))) Pipeline for Musical Timbre Transfer<br/>*Sheldon Huang, Cem Anil, Xuchan Bao* |
+| 3:45 PM | Infilling Piano performances<br/>*Daphne Ippolito* |
+| 4:00 PM | Improvised Robotic Design with Found Objects<br/>*Azumi Maekawa* |
+| 4:15 PM | SpaceSheets: Interactive Latent Space Exploration through a Spreadsheet Interface<br/>*Tom White* |
+| 4:30 PM | 	Runway: Adding artificial intelligence capabilities to design and creative platforms<br/>*Cristobal Valenzuela, Anastasis Germanidis, Alejandro Matamala* |
+| 4:45 PM | Open Discussion |
+| 5:15 PM | AI art show<br/>*Ziv Epstein, Violet Chaney, Alex Champandard, Gene Kogan, Josh Davis* |
+| 5:15 PM | Poster Session 2<br/>*Katy Gero, Aven Zhou, Simiao Yu, Zhengyan Gao, Chris Donahue, Billy Li, Taegyun Kwon, Patrick Hutchings, Charles Martin, Eunsu Kang, Asanobu Kitamoto, Zheng Jiang, Giada Sun, Philipp Schmitt, Maria Attarian, Alex Lamb, Tarin Clanuwat, Mauro Martino, Holly Grimm, Nikolay Jetchev* |
+
+## Accepted Papers
+
+Coming soon!
 
 ## Organisers
 

@@ -4,10 +4,6 @@ Over the past few years, generative machine learning and machine creativity have
 
 The goal of this workshop is to bring together researchers and creative practitioners interested in advancing art and music generation to present new work, foster collaborations and build networks. 
 
-<center>
-<img src="https://cdn.rawgit.com/nips2017creativity/nips2017creativity.github.io/c947e344/assets/nips_logo.svg" width="90%"/>
-</center>
-
 ## Keynote Speakers
 
 Kenneth Stanley, University of Central Florida
@@ -32,7 +28,7 @@ Yaniv Taigman, Facebook AI Research
 
 28 November 2018:  Deadline for final copy of accepted papers
 
-3–8 December 2018: NIPS Conference
+3–8 December 2018: NeurIPS Conference
 
 8 December 2018: Workshop
 
@@ -42,11 +38,11 @@ We invite participation in the form of papers and/or artwork.
 
 ### To Submit a Paper
 
-We invite participants to submit 2-page papers in the NIPS camera-ready format (with author names visible), to be submitted to: `nips2018creativity@gmail.com`
+We invite participants to submit 2-page papers in the NeurIPS camera-ready format (with author names visible), to be submitted to: `nips2018creativity@gmail.com`
 
 In the subject line of your email, please put:
 
-`NIPS Workshop: [Paper title]`
+`NeurIPS Workshop: [Paper title]`
 
 Topics may include (but are not limited to):
 - Presentation of new machine learning techniques for generating art, music, or other creative outputs using, for instance, reinforcement learning, generative adversarial networks, novelty search and evaluation, etc

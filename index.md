@@ -133,7 +133,7 @@ Papers 1-7 will be presented orally. Papers 8-21 will be presented in the first 
    * *Lamtharn Hantrakul, Li-Chia Yang*
 9. [Thinking Between the Lines](doc/thinking_between_the_lines.pdf)
    * *Evan Casey, Harry Teitelman*
-10.  [Learning a Latent Space of Multitrack Measures](doc/Learning_a_Latent_Space_of_Multitrack_measures.pdf)
+10.  [Learning a Latent Space of Multitrack Measures](doc/Learning_a_Latent_Space_of_Multitrack_Measures.pdf)
    * *Ian Simon, Adam Roberts, Colin Raffel, Jesse Engel, Curtis Hawthorne, Douglas Eck*
 11.  [Entendrepreneur: Generating Humorous Portmanteaus using Word-Embeddings](doc/entendrepreneur.pdf)
    * *Jonathan A. Simon*

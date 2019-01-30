@@ -36,7 +36,7 @@ Yaniv Taigman, Facebook AI Research
 
 If you have any questions, please contact us at `nips2018creativity@gmail.com`
 
-Workshop website: [https://nips2018creativity.github.io](https://nips2018 creativity.github.io)
+Workshop website: [https://nips2018creativity.github.io](https://nips2018creativity.github.io)
 
 ## Schedule
 
